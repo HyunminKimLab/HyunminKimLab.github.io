@@ -1,3 +1,6 @@
-title: Hyumin Kim's Lab
+title: "Hyumin Kim's Lab"
 #theme: jekyll-theme-architect
 theme: minima
+layout: page
+title: "project"
+permalink: /project

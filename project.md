@@ -1,1 +1,1 @@
-##hmsplicing : alternative splicing tools
+##project
